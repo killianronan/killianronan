@@ -27,18 +27,11 @@ Here are some ideas to get you started:
 ### 💻 My Technology Stack
 
 <br>
-<!-- <p  align="center">
-  <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871    /68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
+<p  align="center">
+  <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
     &nbsp;
   <img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-</p> -->
-  <p  align="center">
-
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-  &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-  </p>
-  
+</p>
   
 <p  align="center">
   <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
@@ -63,31 +56,36 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
+                  
+  <br>
 
   
   
   
 <table border="0" align="center">
-  <tr border="0">
-  <td width="50%" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-  </td>
 
-  <td width="50%" align="center">
+  
+</td>
+
+<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
-  </tr>
+</tr>
 </table>
-<br>
 
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
