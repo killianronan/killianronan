@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-## I'm Killian Ronan.
+### Hi there 👋. I'm Killian Ronan.
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin
@@ -27,19 +25,19 @@ management.
 - &nbsp; Take a look at my <a href="https://github.com/killianronan/practice-makes-perfect">practice repo</a> for my code samples!
 - 📫 &nbsp; Contact links can be found below!.
 <br>
-### 💻 &nbsp;LinkedIn & Email Contact
+
+### 💻 &nbsp; LinkedIn & Email Contact
 <p align="center">
-<a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
-  <img align="center" alt="Killian Ronan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:kronan@tcd.ie" >
-  <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
+    <img align="center" alt="Killian Ronan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:kronan@tcd.ie" >
+    <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
 </p>
 
 <br>
 ### 💻 &nbsp; My Technology Stack
-
 <br>
 <p  align="center">
   <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
@@ -114,5 +112,3 @@ management.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-
- <br> 
