@@ -18,16 +18,27 @@ Here are some ideas to get you started:
 ## I'm Killian Ronan.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin.
-- &nbsp; Exploring new technologies and developing programming insights.
+- 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin
 - 👨🏽‍💻 &nbsp; Full stack web developer at @IrlcaLtd.
+- &nbsp; Exploring new technologies and developing programming insights.
 - &nbsp; Proficient in front-end development using Angular, backend 
 development using ASP.NET (C#), and MSSQL database design and 
 management.
 - &nbsp; Take a look at my <a href="https://github.com/killianronan/practice-makes-perfect">practice repo</a> for my code samples!
-- &nbsp; Contact links can be found below!.
+- 📫 &nbsp; Contact links can be found below!.
 <br>
 
+  <div align="center">
+  <h3><b>LinkedIn & Email Contact</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
+  <img align="center" alt="Killian Ronan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:kronan@tcd.ie" >
+  <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+</p>
 ### 💻 My Technology Stack
 
 <br>
@@ -106,15 +117,3 @@ management.
 </p>  
 
  <br> 
-
-  <div align="center">
-  <h3><b>LinkedIn & Email Contact</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
-  <img align="center" alt="Killian Ronan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:kronan@tcd.ie" >
-  <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-</p>
