@@ -27,10 +27,7 @@ management.
 - &nbsp; Take a look at my <a href="https://github.com/killianronan/practice-makes-perfect">practice repo</a> for my code samples!
 - 📫 &nbsp; Contact links can be found below!.
 <br>
-
-  <div align="center">
-  <h3><b>LinkedIn & Email Contact</b></h3>
-  </div>
+### 💻 &nbsp;LinkedIn & Email Contact
 <p align="center">
 <a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
   <img align="center" alt="Killian Ronan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -39,7 +36,9 @@ management.
   <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 </p>
-### 💻 My Technology Stack
+
+<br>
+### 💻 &nbsp; My Technology Stack
 
 <br>
 <p  align="center">
