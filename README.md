@@ -75,44 +75,8 @@ Here are some ideas to get you started:
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
-                                                                                    
-
-
-<br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<br>
-
- <hr>
-
-
-
-
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
 
  <br> 
- 
- <hr>
- 
- <br>
 
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
