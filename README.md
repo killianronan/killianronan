@@ -113,13 +113,4 @@ Here are some ideas to get you started:
 <a href="mailto:kronan@tcd.ie" >
   <img align="center" alt="Killian Ronan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<p>
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/killianronan/count.svg" />  
 </p>
-<br>
