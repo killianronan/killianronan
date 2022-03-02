@@ -13,15 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### Hi there 👋
 
 ## I'm Killian Ronan.
 
 ### 💻 &nbsp;About Me 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin.
+- &nbsp; Exploring new technologies and developing programming insights.
+- 👨🏽‍💻 &nbsp; Full stack web developer at @IrlcaLtd.
+- &nbsp; Contact links can be found below!.
+- &nbsp; Proficient in front-end development using Angular, backend 
+development using ASP.NET (C#), and MSSQL database design and 
+management.
+- &nbsp; Take a look at my practice repo for my code samples!
 <br>
 
 ### 💻 My Technology Stack
@@ -104,7 +108,7 @@ Here are some ideas to get you started:
  <br> 
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>LinkedIn & Email Contact</b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
