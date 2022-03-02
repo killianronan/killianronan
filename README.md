@@ -28,7 +28,7 @@ management.
 ### 💻 &nbsp; LinkedIn & Email Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/killian-ronan-9b5150194/" target="_blank">
-    <img align="center" alt="Killian Ronan | Linkedin" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="Killian Ronan | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;
   <a href="mailto:kronan@tcd.ie" >
     <img align="center" alt="Killian Ronan | Gmail" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
