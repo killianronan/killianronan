@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin
 - 👨🏽‍💻 &nbsp; Full stack web developer at @IrlcaLtd.
 - &nbsp; Exploring new technologies and developing programming insights.
-- &nbsp; Proficient in front-end development using Angular, backend 
-development using ASP.NET (C#), and MSSQL database design and 
+- &nbsp; Proficient in front-end development using Angular/React.js, backend 
+development using ASP.NET (C#), and MSSQL/MySQL & Firebase database design and 
 management.
 - &nbsp; Take a look at my <a href="https://github.com/killianronan/practice-makes-perfect">practice repo</a> for my code samples!
 - 📫 &nbsp; Contact links can be found below!.
