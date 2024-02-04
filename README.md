@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋. I'm Killian Ronan.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; Studying Computer Science at Trinity College, Dublin
-- 👨🏽‍💻 &nbsp; Full stack web developer at @IrlcaLtd.
+- 🎓 &nbsp; Computer Science Graduate (BA) at Trinity College, Dublin
+- 👨🏽‍💻 &nbsp; Software Development Engineer @ Workday.
 - &nbsp; Exploring new technologies and developing programming insights.
 - &nbsp; Proficient in front-end development using Angular/React.js, backend 
 development using ASP.NET (C#), and MSSQL/MySQL & Firebase database design and 
